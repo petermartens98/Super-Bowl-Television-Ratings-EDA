@@ -1,5 +1,8 @@
 # Super-Bowl-Television-Ratings-EDA
 
+Python Jupyter notebook that takes in Super Bowl ratings, viewership, network data, advertisements, and other inflationary and financial data. And then cleans, prepares and visualizes such data.
+
+
 ## Example Visualizations:
 
 ### Correlations
